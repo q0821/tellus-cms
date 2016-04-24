@@ -25,3 +25,8 @@ orionjs:bootstrap
 kadira:flow-router
 kadira:blaze-layout
 q0821:orion-lang-zh-tw
+orionjs:image-attribute
+orionjs:summernote
+vsivsi:orion-file-collection
+orionjs:file-attribute
+session
